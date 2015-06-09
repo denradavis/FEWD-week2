@@ -1,0 +1,45 @@
+.col-1-5 {
+	height: 200px;
+	background-color: #888;
+	border: 10px;
+	margin: 10px;
+}
+
+.col-2-5 {
+	width: 40px;
+	float: left;
+}
+.col-3-5 {
+	width: 60%;
+	float: left;
+}
+.col-4-5 {
+	width: 80%;
+	float: left;
+}
+
+.col-1-4 {
+	width: 25%;
+	float: left;
+
+}
+
+.col-2-4 {
+	width: 50%;
+	float: left;
+}
+
+.col-3-4 {
+	width: 75%;
+	float: left;
+}
+
+}
+
+.col-last {
+	float: right;
+}
+.clearfix {
+	display: table;
+	clear: both;
+}
